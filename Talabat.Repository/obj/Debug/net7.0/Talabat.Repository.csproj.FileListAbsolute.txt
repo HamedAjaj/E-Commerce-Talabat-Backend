@@ -28,3 +28,4 @@ D:\ITI\Project\Talabat.Repository\obj\Debug\net7.0\Talabat.Repository.dll
 D:\ITI\Project\Talabat.Repository\obj\Debug\net7.0\refint\Talabat.Repository.dll
 D:\ITI\Project\Talabat.Repository\obj\Debug\net7.0\Talabat.Repository.pdb
 D:\ITI\Project\Talabat.Repository\obj\Debug\net7.0\ref\Talabat.Repository.dll
+D:\ITI\Project\Talabat.Repository\obj\Debug\net7.0\Talabat.Repository.sourcelink.json

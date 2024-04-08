@@ -20,3 +20,8 @@ D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\Talabat.Service.dll
 D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\refint\Talabat.Service.dll
 D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\Talabat.Service.pdb
 D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\ref\Talabat.Service.dll
+D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\Talabat.Service.sourcelink.json
+D:\ITI\Project\Talabat.Service\bin\Debug\net7.0\Talabat.Core.dll
+D:\ITI\Project\Talabat.Service\bin\Debug\net7.0\Talabat.Core.pdb
+D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\ITI\Project\Talabat.Service\obj\Debug\net7.0\Talabat.Service.csproj.CopyComplete

@@ -20,3 +20,5 @@ D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\Talabat.Core.dll
 D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\refint\Talabat.Core.dll
 D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\Talabat.Core.pdb
 D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\ref\Talabat.Core.dll
+D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\ITI\Project\Talabat.Core\obj\Debug\net7.0\Talabat.Core.sourcelink.json

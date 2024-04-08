@@ -50,12 +50,16 @@ namespace Talabat.Repository
         }
 
 
+        public async Task Add(T entity) => await _dbContext.Set<T>().AddAsync(entity);
+        public void Update(T entity) =>  _dbContext.Set<T>().Update(entity);
+        public void Delete(T entity)   => _dbContext.Set<T>().Remove(entity); // using this code data is deleted , but i used saveChanges then is DeAtatched
+
+
         /*انا بعمل الfunction دي عشان مكررش نفس الكود */
         private IQueryable<T> ApplySpecification(ISpecification<T> spec)
         {
             return SpecificationEvaluator<T>.GetQuery(_dbContext.Set<T>(), spec);
         }
 
-      
     }
 }

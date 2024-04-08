@@ -20,7 +20,7 @@ namespace Talabat.Core.Specifications
             set { _pageSize = value > maxPageSize ? maxPageSize : value; }
         }
         private string search;
-        public string Search
+        public string? Search
         {
             get { return search; }
             set { search = value.ToLower(); }
